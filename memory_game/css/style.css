@@ -48,9 +48,9 @@ img {
 	margin: 40px 8px 0 8px;
 }
 
-footer .clearfix {
+footer {
 	text-transform: uppercase;
-	padding: 0 20px 0 20px;
+	padding: 0 20px;
 	background-color: #0D2C40;
 	color: white;
 	font-size: 14px;
@@ -75,4 +75,9 @@ content: " ";
 clear: both;
 height: 0;
 font-size: 0;
+}
+
+.name {
+	color: #F15B31;
+	font-weight: 700;
 }
